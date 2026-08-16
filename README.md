@@ -2,7 +2,7 @@
 
 **Economics · Data · Policy · Infrastructure**
 
-I am an M.S. candidate in Economic Data Analytics at The University of Texas at Arlington. My interests span economics, quantitative methods, public policy, and infrastructure, shaped by a background in economics, civil engineering, reconstruction, teaching, and research.
+I am an M.S. candidate in Economic Data Analytics at The University of Texas at Arlington. My interests span economics, quantitative methods, public policy, and infrastructure, shaped by a background in economics, civil engineering, teaching, and research.
 
 ## Research interests
 
