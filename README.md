@@ -1,24 +1,36 @@
-## 👋 Hi, I’m Sushil Rijal  
-🚀 **Public Policy Researcher | Economic Analysis| Data Enthusiast| Civil Engineer**  
+# Sushil Rijal
 
-### 👀 Interests  
-- Infrastructure Policy & Economic Analysis  
-- Public Policy & Socio-Economic Research  
-- Construction Project Management  
-- Applied Data Science & Machine Learning  
+**Economics · Data · Policy · Infrastructure**
 
-### 🌱 Currently Learning  
-- Advanced Econometrics & Causal Inference  
-- Machine Learning Applications in Public Policy  
+I am an M.S. candidate in Economic Data Analytics at The University of Texas at Arlington. My interests span economics, quantitative methods, public policy, and infrastructure, shaped by a background in economics, civil engineering, reconstruction, teaching, and research.
 
-### 💡 Looking to Collaborate On  
-- Research projects in **infrastructure economics, public policy, and data-driven decision-making**  
-- **Data analysis and econometrics modeling** using R, Python, STATA, and SPSS  
+## Research interests
 
+- Development economics
+- Macroeconomics and monetary policy
+- Infrastructure, energy, and economic transformation
+- Public finance and policy implementation
+- Political economy of South Asia
+- Applied econometrics and time-series methods
 
-### 📫 How to Reach Me  
-📧 Email: [sushilrijal11@gmail.com]  
-💼 LinkedIn: [linkedin.com/in/sushilrijal/]  
-🔬 ResearchGate: [www.researchgate.net/profile/Sushil-Rijal-3]  
+## Current research
 
+**Anchor-Currency Volatility and Macroeconomic Transmission under a Peg**  
+Research on how volatility in an anchor currency propagates through a small economy operating under a fixed exchange-rate regime.
 
+## Publication
+
+**Feature-informed reliability-based merging of crowdsourced labels for digital construction object detection**  
+*Automation in Construction*, 188 (2026), 107031.  
+DOI: 10.1016/j.autcon.2026.107031
+
+## Quantitative tools
+
+R · Python · Stata · SQL
+
+## Connect
+
+- Website: [sushilrijal.com](https://sushilrijal.com)
+- LinkedIn: [linkedin.com/in/sushilrijal](https://www.linkedin.com/in/sushilrijal/)
+- ResearchGate: [Sushil Rijal](https://www.researchgate.net/profile/Sushil-Rijal-3)
+- Email: [sushilrijal11@gmail.com](mailto:sushilrijal11@gmail.com)
